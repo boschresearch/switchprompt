@@ -10,7 +10,7 @@ This repository contains the companion material for the following publication:
 
 > Koustava Goswami, Lukas Lange, Jun Araki, Heike Adel. SwitchPrompt: Learning Domain-Specific Gated Soft Prompts for Classification in Low-Resource Domains. EACL 2023.
 
-Please cite this paper if using the code or references. The paper can be found at [ArXix](https://arxiv.org/abs/2302.06868) and [ACL Anthology](https://aclanthology.org/2023.eacl-main.197/]).
+Please cite this paper if using the code or references. The paper can be found at [ArXix](https://arxiv.org/abs/2302.06868) and [ACL Anthology](https://aclanthology.org/2023.eacl-main.197/).
 
 ```
 @inproceedings{goswami-etal-2023-switchprompt,
